@@ -1,3 +1,5 @@
+//program paired with Hanvid Lee
+
 const wordSearch = (letters, word) => {
 
   const horizontalJoin = letters.map(ls => ls.join(''));
